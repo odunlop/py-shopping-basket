@@ -1,4 +1,4 @@
-# Python Shopping Basket
+# Python Shopping Basket :snake:
 Exercise completed as part of 'Learning a new language' week at Makers 
 
 ## Functionality
